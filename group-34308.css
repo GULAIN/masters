@@ -1,0 +1,32 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 350.8rem;
+}.group-34308-Q75 {
+  box-sizing: border-box;
+  padding: 205rem 197.3rem 12.1rem 110.7rem;
+  width: 100%;
+  height: 248rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/fatie-stage-2fev24-bg.png');
+}
+.group-34308-Q75 .img-20231124-wa0000-2-XhV {
+  width: 42.8rem;
+  height: 30.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}

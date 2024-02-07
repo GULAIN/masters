@@ -1,0 +1,886 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.entertainment-Ae7 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.entertainment-Ae7 .header-tKD {
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 2.9rem 14.264rem;
+  width: 100%;
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .header-tKD .group-34303-Bp7 {
+  margin: 0rem 114.6rem 0.465rem 0rem;
+  width: 2.4361rem;
+  height: 2.735rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB {
+  width: 79.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-r9Z {
+  width: 43.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-r9Z .menu-item-nZ1 {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-r9Z .menu-item-nZ1 .auto-group-sbnj-L4j {
+  margin: 0rem 9.5rem 0.2rem 0rem;
+  width: 8.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-r9Z .menu-item-z9H {
+  width: 14.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 0;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-r9Z .menu-item-z9H .auto-group-j8ap-6i7 {
+  margin: 0rem 9.4rem 0.2rem 0rem;
+  width: 5.5rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-item-BjZ {
+  box-sizing: border-box;
+  padding: 0.233rem 0rem 0.2rem 0rem;
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 1.2rem;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-item-BjZ .auto-group-y2fm-Hnb {
+  margin-right: 4rem;
+  width: 8.1rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-item-bYP {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 1.6rem;
+}
+.entertainment-Ae7 .header-tKD .menu-6gB .menu-item-bYP .auto-group-2wrq-vqZ {
+  margin: 0rem 10.2rem 0.2rem 0rem;
+  width: 7.9rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw {
+  box-sizing: border-box;
+  padding: 6rem 5.8rem 15rem 7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 {
+  margin: 0rem 0rem 7.7rem 6.6rem;
+  width: 172.6rem;
+  height: 108.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .rectangle-341-Rvj {
+  width: 164.8rem;
+  height: 88.6rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  background-size: 100% 123.806%;
+  background-position: 0 -18.9434rem;
+  background-image: url('rectangle-341-bg-Gwd.png');
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .rectangle-341-Rvj .rectangle-341-Rvj-bg {
+  width: 164.8rem;
+  height: 88.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:67388ea3fe0969ab54294c3de261c692a4e64b8a');
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .entertainment-5Eb {
+  width: 117rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 41.6rem;
+  text-align: center;
+  font-size: 8.3rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 2.7805rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .rectangle-347-MT1 {
+  width: 86.8rem;
+  height: 51rem;
+  position: absolute;
+  left: 85.8rem;
+  top: 57.6rem;
+  background-color: #7e398d;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .fashion-shows-V3R {
+  width: 53.4rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 92.2rem;
+  top: 63.3rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-r7q5-7v3 .ozamba-events-is-adept-at-curating-and-managing-captivating-fashion-shows-from-selecting-top-tier-designers-and-models-to-coordinating-runway-logistics-and-choreography-we-ensure-that-every-fashion-show-is-a-showcase-of-creativity-and-style-our-team-brings-a-unique-blend-of-creativity-and-meticulous-planning-to-each-event-Peb {
+  width: 74rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 92.2rem;
+  top: 70.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .line-4-Mzj {
+  margin: 0rem 95.5rem 3.3rem 83.7rem;
+  width: calc(100% - 179.2rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD {
+  margin: 0rem 7.6rem 13.6rem 0rem;
+  width: calc(100% - 7.6rem);
+  height: 120.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .rectangle-346-obq {
+  margin-right: 8.7rem;
+  width: 77.7rem;
+  height: 120.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX {
+  margin: 3.2rem 0rem 1.1rem 0rem;
+  width: 85.2rem;
+  height: calc(100% - 4.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT {
+  width: 100%;
+  height: 36.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-ntpp-bXh {
+  margin: 1rem 2.7rem 0rem 0rem;
+  width: 9.7rem;
+  height: 9.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-ntpp-bXh .rectangle-350-hqd {
+  width: 7.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 1.3rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-ntpp-bXh .model-qB9 {
+  width: 9.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-x1qu-Zsq {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-x1qu-Zsq .model-casting-jGX {
+  margin-bottom: 2.8rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-rwlf-ecT .auto-group-x1qu-Zsq .we-specialize-in-model-casting-for-fashion-shows-advertising-campaigns-and-promotional-events-our-experienced-team-identifies-and-selects-models-that-align-with-the-vision-and-requirements-of-each-project-we-ensure-that-the-casting-process-is-seamless-resulting-in-a-lineup-of-diverse-and-talented-models-rM9 {
+  max-width: 72.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM {
+  margin: 0rem 0.3rem 4.2rem 0rem;
+  width: calc(100% - 0.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-adcp-YNP {
+  margin-right: 2.5rem;
+  width: 9.9rem;
+  height: 9.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-adcp-YNP .rectangle-351-gUb {
+  width: 5.9rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.4rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-adcp-YNP .schedule-oZD {
+  width: 9.9rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-xbto-XVD {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-xbto-XVD .corporate-events-TNs {
+  margin-bottom: 2.1rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .auto-group-mtuh-1dM .auto-group-xbto-XVD .ozamba-events-offers-comprehensive-event-planning-services-for-corporations-this-includes-conferences-seminars-product-launches-and-team-building-events-our-team-handles-all-logistics-allowing-corporate-clients-to-focus-on-their-core-objectives-while-delivering-exceptional-experiences-for-attendees-BZm {
+  max-width: 72.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 {
+  margin-right: 9.7rem;
+  width: calc(100% - 9.7rem);
+  height: 34.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-d8sf-iy1 {
+  margin: 0.5rem 2.7rem 0rem 0rem;
+  width: 9.7rem;
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-d8sf-iy1 .rectangle-352-rJX {
+  width: 5.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 2.3rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-d8sf-iy1 .casting-nCB {
+  width: 9.7rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-7v2k-iLj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-7v2k-iLj .special-events-4vP {
+  margin-bottom: 0.8rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-yx51-gXD .auto-group-dtfy-YJX .auto-group-n4xb-Trj .group-34305-By5 .auto-group-7v2k-iLj .we-excel-in-creating-unique-and-immersive-special-events-such-as-pop-up-shops-or-themed-experiences-from-concept-development-to-execution-we-bring-creativity-and-precision-to-these-events-providing-attendees-with-memorable-and-engaging-experiences-QDZ {
+  max-width: 63.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .line-5-dMD {
+  margin: 0rem 95.5rem 1.9rem 83.7rem;
+  width: calc(100% - 179.2rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq {
+  margin: 0rem 7.7rem 0rem 0.6rem;
+  width: calc(100% - 8.3rem);
+  height: 118.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD {
+  margin: 1.8rem 9.1rem 1.4rem 0rem;
+  width: 79.6rem;
+  height: calc(100% - 3.2rem);
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV {
+  margin-bottom: 4.1rem;
+  width: 100%;
+  height: 61.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-pc75-Ycb {
+  margin: 0.1rem 3.6rem 0rem 0rem;
+  width: 9.9rem;
+  height: 10rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-pc75-Ycb .rectangle-354-4aw {
+  width: 6.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 2.1rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-pc75-Ycb .lectern-Ats {
+  width: 9.9rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-dx6f-73R {
+  width: 66.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-dx6f-73R .governmental-events-celebrations-press-conferences-presentations-ep3 {
+  width: 66.1rem;
+  height: 23.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-dx6f-73R .governmental-events-celebrations-press-conferences-presentations-ep3 .governmental-events-celebrations-press-conferences-presentations-ep3-sub-0 {
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-dx6f-73R .governmental-events-celebrations-press-conferences-presentations-ep3 .governmental-events-celebrations-press-conferences-presentations-ep3-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.84375;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34306-QFV .auto-group-dx6f-73R .we-specialize-in-organizing-governmental-events-that-require-precision-and-professionalism-this-includes-celebratory-occasions-press-conferences-and-official-presentations-ozamba-events-ensures-that-every-aspect-of-these-events-aligns-with-the-protocol-and-objectives-of-governmental-entities-creating-impactful-and-dignified-occasions-86w {
+  width: 62.1rem;
+  height: 40.3rem;
+  position: absolute;
+  left: 0;
+  top: 21.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F {
+  margin-right: 2.9rem;
+  width: calc(100% - 2.9rem);
+  height: 49.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-4zyj-RET {
+  margin: 2.7rem 3.6rem 0rem 0rem;
+  width: 9.7rem;
+  height: 9.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-4zyj-RET .rectangle-353-k1q {
+  width: 7.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.3rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-4zyj-RET .microphone-UiX {
+  width: 9.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-e899-p1h {
+  width: 63.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-e899-p1h .ozamba-events-celebrates-the-richness-of-culture-through-a-diverse-range-of-events-this-includes-music-festivals-literary-gatherings-culinary-experiences-and-dance-showcases-we-curate-events-that-showcase-the-vibrancy-and-artistry-of-different-cultures-providing-attendees-with-enriching-and-enjoyable-experiences-mBq {
+  width: 63.4rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 0;
+  top: 17.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-e899-p1h .cultural-events-festivals-literature-food-dancing-exhibition-Mvj {
+  width: 59.7rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .auto-group-ysab-5DD .group-34307-H8F .auto-group-e899-p1h .cultural-events-festivals-literature-food-dancing-exhibition-Mvj .cultural-events-festivals-literature-food-dancing-exhibition-Mvj-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.84375;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.entertainment-Ae7 .auto-group-ftaj-QEw .auto-group-a9uv-kRq .rectangle-348-7oR {
+  width: 82.2rem;
+  height: 118.4rem;
+  position: relative;
+  background-size: 100.295% 123.057%;
+  background-position: -0.1212rem -22.8rem;
+  background-image: url('rectangle-348-7Go.png');
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m {
+  box-sizing: border-box;
+  padding: 3.947rem 7.8rem 4.5rem 7.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #7e398d;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ {
+  margin: 0rem 4.3rem 2.547rem 4.3rem;
+  width: calc(100% - 8.6rem);
+  height: 5.5057rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 {
+  margin: 1.853rem 85.4rem 1.253rem 0rem;
+  width: 61.5rem;
+  height: calc(100% - 3.1057rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-xhZ {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-xhZ .auto-group-sb47-iAw {
+  margin: 0rem 13.5rem 0.2rem 0rem;
+  width: 4.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-Q3m {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-Q3m .auto-group-orvw-8VZ {
+  margin: 0rem 7.5rem 0.2rem 0rem;
+  width: 10.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-RUf {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-RUf .auto-group-ixub-xzP {
+  margin: 0rem 10rem 0.2rem 0rem;
+  width: 8.1rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-4Gj {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-4Gj .auto-group-a1st-c3M {
+  margin: 0rem 10.8rem 0.2rem 0rem;
+  width: 7.3rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .menu-Sz7 .menu-item-uHM {
+  width: 7.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM {
+  width: 20.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-9Sb {
+  margin-bottom: 0.7539rem;
+  width: 0.5079rem;
+  height: 0.4977rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR {
+  margin: 0rem 0.508rem 0.887rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-DhM {
+  margin: 0rem 0.975rem 0.008rem 0rem;
+  width: 2.4957rem;
+  height: 2.4927rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-Yjd {
+  margin: 0rem 0.975rem 0.006rem 0rem;
+  width: 2.2334rem;
+  height: 2.4954rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-smu {
+  margin: 0.003rem 0.975rem 0rem 0rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-CpB {
+  margin: 0rem 0.975rem 0.009rem 0rem;
+  width: 3.1194rem;
+  height: 2.493rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-XrT {
+  margin: 0.007rem 0.975rem 0rem 0rem;
+  width: 2.2648rem;
+  height: 2.4957rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-ghR .vector-fSs {
+  margin-top: 0.003rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB {
+  margin: 0rem 6.421rem 0rem 5.912rem;
+  width: calc(100% - 12.3329rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .vector-7Zm {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.5113rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .vector-Srw {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7316rem;
+  height: 0.8389rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .auto-group-fyw1-B3q {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7467rem;
+  height: 0.8383rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .vector-VaK {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6563rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .vector-Rym {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6755rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .group-34280-wXZ .group-CXM .group-oJB .vector-ZaB {
+  width: 0.5655rem;
+  height: 0.8652rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .rectangle-11-uP9 {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #c1c7cd;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .auto-group-aeaf-ebd {
+  margin: 0rem 1.1rem 0rem 71.25rem;
+  width: calc(100% - 72.35rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .auto-group-aeaf-ebd .ozamba-events-all-rights-are-reserved-mgF {
+  margin-right: 63.65rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4000000272;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .auto-group-aeaf-ebd .social-icons-g2X {
+  box-sizing: border-box;
+  padding: 0.2rem 0.204rem 0.203rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .auto-group-aeaf-ebd .social-icons-g2X .icon-jam-icons-outline-logos-instagram-cB5 {
+  margin-right: 2.0035rem;
+  width: 1.9965rem;
+  height: 1.9965rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.entertainment-Ae7 .footer-D5m .auto-group-aeaf-ebd .social-icons-g2X .icon-jam-icons-outline-logos-linkedin-jFh {
+  margin-bottom: 0.0841rem;
+  width: 1.9959rem;
+  height: 1.9072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

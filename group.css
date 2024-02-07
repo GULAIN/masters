@@ -1,0 +1,101 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 97.2rem;
+}.group-XiT {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.group-XiT .group-6Fm {
+  margin-bottom: 4.422rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-SqR {
+  margin-bottom: 3.526rem;
+  width: 2.375rem;
+  height: 2.326rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs {
+  margin-right: 2.376rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-Xby {
+  margin: 0rem 4.558rem 0.043rem 0rem;
+  width: 11.661rem;
+  height: 11.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-r8T {
+  margin: 0rem 4.555rem 0.03rem 0rem;
+  width: 10.438rem;
+  height: 11.661rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-yis {
+  margin: 0.021rem 4.557rem 0rem 0rem;
+  width: 12.391rem;
+  height: 11.6183rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-7KH {
+  margin: 0rem 4.555rem 0.043rem 0rem;
+  width: 14.578rem;
+  height: 11.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-qWB {
+  margin: 0.03rem 4.556rem 0rem 0rem;
+  width: 10.584rem;
+  height: 11.661rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-6Fm .group-PEs .vector-mej {
+  margin-top: 0.0208rem;
+  width: 12.391rem;
+  height: 11.6183rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-XiT .group-JuZ {
+  margin-right: 0.878rem;
+  width: 39.568rem;
+  height: 3.771rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

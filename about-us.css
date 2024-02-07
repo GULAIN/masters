@@ -1,0 +1,499 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.about-us-d7Z {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-us-d7Z .header-JDh {
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 2.9rem 14.264rem;
+  width: 100%;
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.about-us-d7Z .header-JDh .group-34303-BHV {
+  margin: 0rem 114.6rem 0.465rem 0rem;
+  width: 2.4361rem;
+  height: 2.735rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .header-JDh .menu-gV9 {
+  width: 79.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-dQP {
+  width: 43.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-dQP .menu-item-ZYw {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-dQP .menu-item-ZYw .auto-group-ekak-6Ys {
+  margin: 0rem 9.5rem 0.2rem 0rem;
+  width: 8.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-dQP .menu-item-Mjh {
+  width: 14.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 0;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-dQP .menu-item-Mjh .auto-group-r4wd-5fh {
+  margin: 0rem 9.4rem 0.2rem 0rem;
+  width: 5.5rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-item-M7R {
+  box-sizing: border-box;
+  padding: 0.233rem 0rem 0.2rem 0rem;
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 1.2rem;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-item-M7R .auto-group-qmaj-GEP {
+  margin-right: 4rem;
+  width: 8.1rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-item-mB9 {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 1.6rem;
+}
+.about-us-d7Z .header-JDh .menu-gV9 .menu-item-mB9 .auto-group-mtym-u2T {
+  margin: 0rem 10.2rem 0.2rem 0rem;
+  width: 7.9rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-7ihh-J4b {
+  margin-bottom: 10.5rem;
+  width: 100%;
+  height: 108.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-7ihh-J4b .michael-lee-5z9bgfrzlle-unsplash-1-dsZ {
+  width: 192rem;
+  height: 83.2rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 120.213% 184.965%;
+  background-position: 0.2914rem -48.5821rem;
+  background-image: url('michael-lee-5z9bgfrzlle-unsplash-1-zy1.png');
+}
+.about-us-d7Z .auto-group-7ihh-J4b .rectangle-1-723 {
+  width: 126.9rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 32.6rem;
+  top: 56.7rem;
+  background-color: #7e398d;
+}
+.about-us-d7Z .auto-group-7ihh-J4b .about-us-3Ab {
+  width: 36.4rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 62.9rem;
+  font-size: 6.5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-7ihh-J4b .ozamba-events-is-a-dynamic-event-organization-specializing-in-sports-and-entertainment-from-tournaments-to-fashion-shows-we-craft-unforgettable-experiences-across-diverse-sectors-our-expertise-lies-in-creating-seamless-events-that-leave-a-lasting-impact-whether-in-sports-fashion-music-literature-food-or-corporate-gatherings-with-a-blend-of-creativity-and-precision-we-bring-your-vision-to-life-ensuring-every-event-is-a-resounding-success-discover-how-ozamba-events-can-create-your-next-experience-YNF {
+  width: 109rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 41.6rem;
+  top: 71.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.about-us-d7Z .auto-group-w1ru-qEs {
+  box-sizing: border-box;
+  padding: 10rem 0rem 3.749rem 0rem;
+  width: 100%;
+  height: 59.4493rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .group-34302-9mM {
+  margin: 0rem 79.8rem 12.2rem 80rem;
+  width: calc(107% - 159.8rem);
+  height: 12.5rem;
+  text-decoration: none;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #ffffff;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00437b;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T {
+  box-sizing: border-box;
+  padding: 3.947rem 7.8rem 4.5rem 7.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  flex-direction: column;
+  background-color: #7e398d;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV {
+  margin: 0rem 4.3rem 2.547rem 4.3rem;
+  width: calc(100% - 8.6rem);
+  height: 5.5057rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas {
+  margin: 1.853rem 85.4rem 1.253rem 0rem;
+  width: 61.5rem;
+  height: calc(100% - 3.1057rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-yto {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-yto .auto-group-sv1d-vJF {
+  margin: 0rem 13.5rem 0.2rem 0rem;
+  width: 4.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-bvB {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-bvB .auto-group-pmjq-KLP {
+  margin: 0rem 7.5rem 0.2rem 0rem;
+  width: 10.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-boh {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-boh .auto-group-14d9-wcf {
+  margin: 0rem 10rem 0.2rem 0rem;
+  width: 8.1rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-e1H {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-e1H .auto-group-gz9u-ypF {
+  margin: 0rem 10.8rem 0.2rem 0rem;
+  width: 7.3rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .menu-sas .menu-item-Um1 {
+  width: 7.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 {
+  width: 20.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-84s {
+  margin-bottom: 0.7539rem;
+  width: 0.5079rem;
+  height: 0.4977rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw {
+  margin: 0rem 0.508rem 0.887rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-PWb {
+  margin: 0rem 0.975rem 0.008rem 0rem;
+  width: 2.4957rem;
+  height: 2.4927rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-ujq {
+  margin: 0rem 0.975rem 0.006rem 0rem;
+  width: 2.2334rem;
+  height: 2.4954rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-qtP {
+  margin: 0.003rem 0.975rem 0rem 0rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-ZZV {
+  margin: 0rem 0.975rem 0.009rem 0rem;
+  width: 3.1194rem;
+  height: 2.493rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-VT9 {
+  margin: 0.007rem 0.975rem 0rem 0rem;
+  width: 2.2648rem;
+  height: 2.4957rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-Tcw .vector-Qq1 {
+  margin-top: 0.003rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET {
+  margin: 0rem 6.421rem 0rem 5.912rem;
+  width: calc(100% - 12.3329rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .vector-sib {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.5113rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .vector-nKm {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7316rem;
+  height: 0.8389rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .auto-group-axrf-tdh {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7467rem;
+  height: 0.8383rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .vector-DR5 {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6563rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .vector-9Jj {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6755rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .group-34280-YoV .group-aZ9 .group-MET .vector-ryq {
+  width: 0.5655rem;
+  height: 0.8652rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .rectangle-11-oPH {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #c1c7cd;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .auto-group-qid9-wEb {
+  margin: 0rem 1.1rem 0rem 71.25rem;
+  width: calc(100% - 72.35rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .auto-group-qid9-wEb .ozamba-events-all-rights-are-reserved-TTq {
+  margin-right: 63.65rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4000000272;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .auto-group-qid9-wEb .social-icons-wto {
+  box-sizing: border-box;
+  padding: 0.2rem 0.204rem 0.203rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .auto-group-qid9-wEb .social-icons-wto .icon-jam-icons-outline-logos-instagram-Feb {
+  margin-right: 2.0035rem;
+  width: 1.9965rem;
+  height: 1.9965rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-d7Z .auto-group-w1ru-qEs .footer-24T .auto-group-qid9-wEb .social-icons-wto .icon-jam-icons-outline-logos-linkedin-y4o {
+  margin-bottom: 0.0841rem;
+  width: 1.9959rem;
+  height: 1.9072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+

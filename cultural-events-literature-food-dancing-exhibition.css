@@ -1,0 +1,36 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 59.7rem;
+}.cultural-events-literature-food-dancing-exhibition-e11 {
+  width: 100%;
+  height: 17.7rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.cultural-events-literature-food-dancing-exhibition-e11 .cultural-events-literature-food-dancing-exhibition-e11-sub-0 {
+}
+.cultural-events-literature-food-dancing-exhibition-e11 .cultural-events-literature-food-dancing-exhibition-e11-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.84375;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
